@@ -11,7 +11,7 @@
 
 # Files: 
 
-# Game: Contains game class
+# Game: Contains game function
 # Start/End Game: While loop that will keep running while P1/P2 score > 0, when p1/p2 == 0 and displays end game message
 # Display P1/P2 lives
 # Ask Question or Respond with Waiting to P1/P2, also compares the response to actualy answer, if correct/wrong, add/subtract lives
